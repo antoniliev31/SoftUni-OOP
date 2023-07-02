@@ -1,2 +1,2 @@
-# SofyUni-OOP
+# SoftUni-OOP
 My Exercise
